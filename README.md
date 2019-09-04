@@ -20,26 +20,26 @@ jar文件可以直接运行
 
 开始界面可以选择难度
 
-![1](示例\1.png)
+![1](https://github.com/Xbean1028/Memory-game/blob/master/示例/1.png)
 
 简单模式 5*5
 
-![2](示例\2.png)
+![2](https://github.com/Xbean1028/Memory-game/blob/master/示例/2.png)
 
-![3](示例\3.png)
+![3](https://github.com/Xbean1028/Memory-game/blob/master/示例/3.png)
 
 中等模式 6*6
 
-![4](示例\4.png)
+![4](https://github.com/Xbean1028/Memory-game/blob/master/示例/4.png)
 
 困难模式 7*7
 
-![5](示例\5.png)
+![5](https://github.com/Xbean1028/Memory-game/blob/master/示例/5.png)
 
 提示功能，显示2秒
 
-![6](示例\6.png)
+![6](https://github.com/Xbean1028/Memory-game/blob/master/示例/6.png)
 
 胜利
 
-![7](示例\7.png)
+![7](https://github.com/Xbean1028/Memory-game/blob/master/示例/7.png)
