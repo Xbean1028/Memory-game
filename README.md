@@ -20,24 +20,26 @@ jar文件可以直接运行
 
 开始界面可以选择难度
 
-![1](G:\github\Memory-game\示例\1.png)
+![1](示例\1.png)
 
 简单模式 5*5
 
-![2](G:\github\Memory-game\示例\2.png)
+![2](示例\2.png)
 
-![3](G:\github\Memory-game\示例\3.png)
+![3](示例\3.png)
 
 中等模式 6*6
 
-![4](G:\github\Memory-game\示例\4.png)
+![4](示例\4.png)
 
 困难模式 7*7
 
-![5](G:\github\Memory-game\示例\5.png)
+![5](示例\5.png)
 
 提示功能，显示2秒
 
-![6](G:\github\Memory-game\示例\6.png)
+![6](示例\6.png)
 
-胜利![7](G:\github\Memory-game\示例\7.png)
+胜利
+
+![7](示例\7.png)
